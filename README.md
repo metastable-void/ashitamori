@@ -10,6 +10,11 @@ Tiny virtual firewall appliance for ordinary GNU/Linux routers/servers, written 
 
 Ashitamori (Japanese: 朝守) literlly means the dawn keeper. Protects the dawn, earlier than morning (朝; asa).
 
+## Intents
+
+- Replaces costly firewall appliances in basic setups.
+- Better frontend to iptables (than UFW and possibly firewalld)
+
 ## License
 
 Licensed under the MPL-2.0. 
